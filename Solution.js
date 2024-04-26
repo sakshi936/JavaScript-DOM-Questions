@@ -34,5 +34,4 @@ const search= document.querySelector('._header_bottom_558sn_1 ._auxiliary_menu_5
 search.addEventListener('mouseover',()=>{search. style.backgroundColor='red'});
 
 
-// Qusetion 7
 
