@@ -1,10 +1,7 @@
 // Question 1
 
 document.querySelector('.crayons-subtitle-2').innerHTML = `MY NAME`;
-document.querySelector('.color-base-70').innerHTML = 'Exited to learn new things'
-
-// Question 2
-
+document.querySelector('.color-base-70').innerHTML = 'Excited to learn new things'
 
 
 // Question 3
@@ -17,9 +14,6 @@ h3.appendChild(text);
 newsec.appendChild(h3);
 const nav = document.querySelector('.accordion-homepage');
 nav.appendChild(newsec);
-
-
-// Question 4
 
 
 // Question 5
@@ -98,7 +92,7 @@ HotDeals.style.fontSize ='80px';
 const pctitle = document.querySelector('#gn5530d83m6001orb1 .ps-top .ps-system-title-container h3');
 pctitle.style.textAlign='right';
 
-// Question 16
+
 
 // Question 17
 const btn = document.querySelector('.ProductSummaryModels__Content .ProductSummaryModels__ButtonContainer a');
@@ -119,6 +113,8 @@ src;
 
 // Question 20
 
+const ele = document.querySelector('.hero-banner .cmp__hero-banner-v2 .hero-banner-kv .content-container .bottom-layout .desc');
+ele.style.color='orange';
 
 
 
